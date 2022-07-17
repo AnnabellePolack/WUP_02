@@ -58,8 +58,10 @@ The average VitC content of cabbages cultivated using the c39 method is 51.5 uni
 t.test(VitC~Cult,data=veggy)
 ```
 
-The t-test shows, similar to the descriptive numerical results, that the average VitC content of cabbages cultivated using the c39 methos is 51.5 units, while it 64.4 units of cultivated cabbages using the c52 method. Moreover the p-value which is of a very low value shows that there is a very small probability that there is no difference between the VitC content of cabbages using the two cultivation methods discussed. 
+The t-test shows, similar to the descriptive numerical results, that the average VitC content of cabbages cultivated using the c39 methods is 51.5 units, while it 64.4 units of cultivated cabbages using the c52 method. Moreover the p-value which is of a very low value shows that there is a very small probability that there is no difference between the VitC content of cabbages using the two cultivation methods discussed. 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Given that the graphical descriptive, numerical descriptive, and the inferential descriptive results all show that there is a difference between the VitC content of cabbages produced using the c39 and c52 cultivation methods, we can conclude that the c39 and c52 cultivation methods produce cabbages that include different VitC content. 
